@@ -75,7 +75,7 @@ document.querySelector('.btn-hold').addEventListener('click', function(){
 });
 
 
-
+// YEAH BABY
 
 
 //document.querySelector('#current-' + activePlayer).textContent = dice;
